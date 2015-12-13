@@ -1,0 +1,8 @@
+centre vcentre
+
+% Agenda
+
+* ¿Por qué versionar?
+* Opciones comunes
+* Versionando sin obstruir
+* Demo en NodeJS

@@ -1,0 +1,9 @@
+centre vcentre
+
+% Opción: Accept header
+
+La versión se especifica en el header Accept
+
+  GET http://example.com/users
+  ~Accept: application/vnd.example.v1+json
+  Content-Type: application/json

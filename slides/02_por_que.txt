@@ -1,0 +1,7 @@
+centre vcentre
+
+% ¿Por qué versionar?
+
+* El software evoluciona
+* Tu audiencia crece
+* Necesitas hacer grandes cambios

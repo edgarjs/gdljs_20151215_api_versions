@@ -1,0 +1,9 @@
+centre vcentre
+
+% Opción: Header propio
+
+PROS:
+
+* Una sola URI por recurso
+* Facilidad de conversión
+* Es _RESTful_ (?)

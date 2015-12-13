@@ -1,0 +1,7 @@
+centre vcentre
+
+% Opción: Accept header
+
+CONS:
+
+* Difícil de probar (no links directos)

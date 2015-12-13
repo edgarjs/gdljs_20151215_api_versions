@@ -1,0 +1,10 @@
+centre vcentre
+
+% Opción: Header propio
+
+La versión se especifica en un header propio
+
+  GET http://example.com/users
+  ~X-API-VERSION: 1.0
+  Content-Type: application/json
+

@@ -1,0 +1,7 @@
+centre vcentre
+
+% Opciones comunes
+
+* URL
+* Request header propio
+* Accept header

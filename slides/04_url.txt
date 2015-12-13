@@ -1,0 +1,12 @@
+centre vcentre
+
+% Opción: URL
+
+La versión forma parte del URI
+
+GET http://example.com~/api/v1~/users
+
+Variantes:
+
+* Query string: ~/users?api=v1~
+* Subdominio: http://~v1.api.~example.com/users

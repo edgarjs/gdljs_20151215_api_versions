@@ -1,0 +1,10 @@
+centre vcentre
+
+% Opción: Accept header
+
+PROS:
+
+* Una sola URI por recurso
+* Facilidad de conversión
+* Es _RESTful_ (?)
+* Accept es un header _estándar_

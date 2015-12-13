@@ -1,0 +1,7 @@
+centre vcentre
+
+% Versionar sin obstruir
+
+* REST o no REST, tu prioridad es ser amigable con tu audiencia.
+* Debes proveer opciones ~sólo si son requeridas~.
+* Sea cual sea tu decisión, debes comprometerte y firmar un contrato.

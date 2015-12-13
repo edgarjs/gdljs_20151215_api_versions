@@ -1,0 +1,27 @@
+centre vcentre
+
+% DEMO
+
+~Accept header
+
+┌───────────────────────────────────────┐
+│              GET /users               │
+│  Accept: application/vnd.example.v1   │
+└───────────────────────────────────────┘
+                    │
+                    │
+                    ▼
+    ┌──────────────────────────────┐
+    │        Middleware 1:         │
+    │                              │
+    │     Inicializar versión      │
+    └──────────────────────────────┘
+                    │
+                    │
+                    ▼
+  ┌──────────────────────────────────┐
+  │          Middleware 2:           │
+  │                                  │
+  │ Usar el router adecuado para la  │
+  │             versión              │
+  └──────────────────────────────────┘

@@ -1,0 +1,7 @@
+centre vcentre
+
+% Opción: URL
+
+PROS:
+
+* Claridad

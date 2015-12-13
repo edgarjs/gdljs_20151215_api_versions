@@ -1,0 +1,8 @@
+centre vcentre
+
+% Opción: Header propio
+
+CONS:
+
+* Header propio (no convenciones)
+* Difícil de probar (no links directos)

@@ -1,0 +1,9 @@
+centre vcentre
+
+% Opción: URL
+
+CONS:
+
+* Diferentes URIs para los mismos recursos
+* Menor conversión (muchas versiones?)
+* No es _RESTful_ (?)
